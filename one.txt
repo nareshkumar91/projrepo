@@ -1,1 +1,6 @@
 added a file in master in local repository
+added a new content in branch1
+these is testing for branchiung statagy
+there i think ima using merging concept
+wen u do merging concept
+the content will be merged
