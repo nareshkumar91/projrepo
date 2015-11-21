@@ -4,3 +4,5 @@ these is testing for branchiung statagy
 there i think ima using merging concept
 wen u do merging concept
 the content will be merged
+the code will be added into the branch2 
+now im testing into the merged and rebase concept
